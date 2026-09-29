@@ -1,0 +1,11 @@
+{
+  "name": "lmc-solution",
+  "version": "1.0.0",
+  "description": "Bot WhatsApp LMC-SOLUTION",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "author": "L'Art Boss",
+  "license": "MIT"
+}
